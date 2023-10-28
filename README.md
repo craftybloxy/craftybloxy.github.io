@@ -1,3 +1,2 @@
 # craftybloxy.github.io
-# craftybloxy.github.io
-# craftybloxy.github.io
+Un devoir d'NSI
